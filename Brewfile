@@ -2,6 +2,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 tap "neovim/neovim"
+tap "thoughtbot/formulae"
 brew "ctags"
 brew "fish"
 brew "fzf"
@@ -15,6 +16,7 @@ brew "rust"
 brew "the_platinum_searcher"
 brew "tig"
 brew "vim"
+brew "thoughtbot/formulae/rcm"
 mas "1Password 7", id: 1333542190
 mas "Alfred", id: 405843582
 mas "CotEditor", id: 1024640650
